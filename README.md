@@ -4,4 +4,4 @@
 Write a Java program that prints a simple message to the console.
 
 📸 **Output Screenshot:**  
-![Output1](Screenshots\Screenshot (136).png) 
+![Output](Screenshots\Screenshot (136).png) 
